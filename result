@@ -1,0 +1,160 @@
+1	0.00366850	SELECT * FROM todo use index(num_h_index) WHERE num_column = 1
+2	0.00399550	SELECT * FROM todo use index(num_b_index) WHERE num_column = 1
+3	0.02176250	SELECT * FROM todo WHERE num_column BETWEEN 1 and 5
+4	0.00373375	SELECT * FROM todo WHERE str_column like 'a%'
+5	0.01128875	SELECT * FROM todo WHERE str_column like '%a'
+1	0.00509650	SELECT * FROM todo use index(num_h_index) WHERE num_column = 1
+2	0.00595000	SELECT * FROM todo use index(num_b_index) WHERE num_column = 1
+3	0.02375225	SELECT * FROM todo WHERE num_column BETWEEN 1 and 5
+4	0.00406575	SELECT * FROM todo WHERE str_column like 'a%'
+5	0.01094100	SELECT * FROM todo WHERE str_column like '%a'
+1	0.00321425	SELECT * FROM todo use index(num_h_index) WHERE num_column = 1
+2	0.00385675	SELECT * FROM todo use index(num_b_index) WHERE num_column = 1
+3	0.02125950	SELECT * FROM todo WHERE num_column BETWEEN 1 and 5
+4	0.00784025	SELECT * FROM todo WHERE str_column like 'a%'
+5	0.01354150	SELECT * FROM todo WHERE str_column like '%a'
+1	0.00401875	SELECT * FROM todo use index(num_h_index) WHERE num_column = 1
+2	0.00475500	SELECT * FROM todo use index(num_b_index) WHERE num_column = 1
+3	0.02182875	SELECT * FROM todo WHERE num_column BETWEEN 1 and 5
+4	0.00462950	SELECT * FROM todo WHERE str_column like 'a%'
+5	0.01118400	SELECT * FROM todo WHERE str_column like '%a'
+1	0.00351200	SELECT * FROM todo use index(num_h_index) WHERE num_column = 1
+2	0.00489975	SELECT * FROM todo use index(num_b_index) WHERE num_column = 1
+3	0.00229850	SELECT * FROM todo WHERE num_column BETWEEN 1 and 5
+4	0.00362400	SELECT * FROM todo WHERE str_column like 'a%'
+5	0.01162700	SELECT * FROM todo WHERE str_column like '%a'
+1	0.00282800	SELECT * FROM todo use index(num_h_index) WHERE num_column = 1
+2	0.00368700	SELECT * FROM todo use index(num_b_index) WHERE num_column = 1
+3	0.02071800	SELECT * FROM todo WHERE num_column BETWEEN 1 and 5
+4	0.00325475	SELECT * FROM todo WHERE str_column like 'a%'
+5	0.01313025	SELECT * FROM todo WHERE str_column like '%a'
+1	0.00455775	SELECT * FROM todo use index(num_h_index) WHERE num_column = 1
+2	0.00632925	SELECT * FROM todo use index(num_b_index) WHERE num_column = 1
+3	0.02708050	SELECT * FROM todo WHERE num_column BETWEEN 1 and 5
+4	0.00399250	SELECT * FROM todo WHERE str_column like 'a%'
+5	0.01205275	SELECT * FROM todo WHERE str_column like '%a'
+1	0.00324275	SELECT * FROM todo use index(num_h_index) WHERE num_column = 1
+2	0.00377375	SELECT * FROM todo use index(num_b_index) WHERE num_column = 1
+3	0.02027250	SELECT * FROM todo WHERE num_column BETWEEN 1 and 5
+4	0.00423400	SELECT * FROM todo WHERE str_column like 'a%'
+5	0.01146500	SELECT * FROM todo WHERE str_column like '%a'
+1	0.00354200	SELECT * FROM todo use index(num_h_index) WHERE num_column = 1
+2	0.00497350	SELECT * FROM todo use index(num_b_index) WHERE num_column = 1
+3	0.02371100	SELECT * FROM todo WHERE num_column BETWEEN 1 and 5
+4	0.00439675	SELECT * FROM todo WHERE str_column like 'a%'
+5	0.01143600	SELECT * FROM todo WHERE str_column like '%a'
+1	0.00503625	SELECT * FROM todo use index(num_h_index) WHERE num_column = 1
+2	0.00811775	SELECT * FROM todo use index(num_b_index) WHERE num_column = 1
+3	0.03311550	SELECT * FROM todo WHERE num_column BETWEEN 1 and 5
+4	0.00733700	SELECT * FROM todo WHERE str_column like 'a%'
+5	0.01098275	SELECT * FROM todo WHERE str_column like '%a'
+1	0.00855875	SELECT * FROM todo use index(num_h_index) WHERE num_column = 1
+2	0.00930325	SELECT * FROM todo use index(num_b_index) WHERE num_column = 1
+3	0.02737000	SELECT * FROM todo WHERE num_column BETWEEN 1 and 5
+4	0.00372500	SELECT * FROM todo WHERE str_column like 'a%'
+5	0.01127700	SELECT * FROM todo WHERE str_column like '%a'
+1	0.00328675	SELECT * FROM todo use index(num_h_index) WHERE num_column = 1
+2	0.00412300	SELECT * FROM todo use index(num_b_index) WHERE num_column = 1
+3	0.02526275	SELECT * FROM todo WHERE num_column BETWEEN 1 and 5
+4	0.00462050	SELECT * FROM todo WHERE str_column like 'a%'
+5	0.01082250	SELECT * FROM todo WHERE str_column like '%a'
+1	0.00353400	SELECT * FROM todo use index(num_h_index) WHERE num_column = 1
+2	0.00444425	SELECT * FROM todo use index(num_b_index) WHERE num_column = 1
+3	0.02133900	SELECT * FROM todo WHERE num_column BETWEEN 1 and 5
+4	0.00423725	SELECT * FROM todo WHERE str_column like 'a%'
+5	0.01161425	SELECT * FROM todo WHERE str_column like '%a'
+1	0.00472800	SELECT * FROM todo use index(num_h_index) WHERE num_column = 1
+2	0.00428625	SELECT * FROM todo use index(num_b_index) WHERE num_column = 1
+3	0.03137575	SELECT * FROM todo WHERE num_column BETWEEN 1 and 5
+4	0.00672825	SELECT * FROM todo WHERE str_column like 'a%'
+5	0.01338125	SELECT * FROM todo WHERE str_column like '%a'
+1	0.00359175	SELECT * FROM todo use index(num_h_index) WHERE num_column = 1
+2	0.00437050	SELECT * FROM todo use index(num_b_index) WHERE num_column = 1
+3	0.02210925	SELECT * FROM todo WHERE num_column BETWEEN 1 and 5
+4	0.00452675	SELECT * FROM todo WHERE str_column like 'a%'
+5	0.01047350	SELECT * FROM todo WHERE str_column like '%a'
+1	0.00506075	SELECT * FROM todo use index(num_h_index) WHERE num_column = 1
+2	0.00467675	SELECT * FROM todo use index(num_b_index) WHERE num_column = 1
+3	0.01831975	SELECT * FROM todo WHERE num_column BETWEEN 1 and 5
+4	0.00447400	SELECT * FROM todo WHERE str_column like 'a%'
+5	0.01172100	SELECT * FROM todo WHERE str_column like '%a'
+1	0.00433500	SELECT * FROM todo use index(num_h_index) WHERE num_column = 1
+2	0.00578000	SELECT * FROM todo use index(num_b_index) WHERE num_column = 1
+3	0.02146950	SELECT * FROM todo WHERE num_column BETWEEN 1 and 5
+4	0.00692800	SELECT * FROM todo WHERE str_column like 'a%'
+5	0.01608700	SELECT * FROM todo WHERE str_column like '%a'
+1	0.00658925	SELECT * FROM todo use index(num_h_index) WHERE num_column = 1
+2	0.00414600	SELECT * FROM todo use index(num_b_index) WHERE num_column = 1
+3	0.02194300	SELECT * FROM todo WHERE num_column BETWEEN 1 and 5
+4	0.00384825	SELECT * FROM todo WHERE str_column like 'a%'
+5	0.01305775	SELECT * FROM todo WHERE str_column like '%a'
+1	0.00316700	SELECT * FROM todo use index(num_h_index) WHERE num_column = 1
+2	0.00372800	SELECT * FROM todo use index(num_b_index) WHERE num_column = 1
+3	0.01896225	SELECT * FROM todo WHERE num_column BETWEEN 1 and 5
+4	0.00371875	SELECT * FROM todo WHERE str_column like 'a%'
+5	0.01070925	SELECT * FROM todo WHERE str_column like '%a'
+1	0.00441800	SELECT * FROM todo use index(num_h_index) WHERE num_column = 1
+2	0.00307650	SELECT * FROM todo use index(num_b_index) WHERE num_column = 1
+3	0.02451800	SELECT * FROM todo WHERE num_column BETWEEN 1 and 5
+4	0.00534825	SELECT * FROM todo WHERE str_column like 'a%'
+5	0.01075850	SELECT * FROM todo WHERE str_column like '%a'
+1	0.00307275	SELECT * FROM todo use index(num_h_index) WHERE num_column = 1
+2	0.00392075	SELECT * FROM todo use index(num_b_index) WHERE num_column = 1
+3	0.01242225	SELECT * FROM todo use index(num_h_index) WHERE num_column BETWEEN 1 and 5
+4	0.01955000	SELECT * FROM todo use index(num_b_index) WHERE num_column BETWEEN 1 and 5
+5	0.00362725	SELECT * FROM todo WHERE str_column like 'a%'
+6	0.01046700	SELECT * FROM todo WHERE str_column like '%a'
+1	0.00345125	SELECT * FROM todo use index(num_h_index) WHERE num_column = 1
+2	0.00479425	SELECT * FROM todo use index(num_b_index) WHERE num_column = 1
+3	0.01486350	SELECT * FROM todo use index(num_h_index) WHERE num_column BETWEEN 1 and 5
+4	0.03302050	SELECT * FROM todo use index(num_b_index) WHERE num_column BETWEEN 1 and 5
+5	0.00421800	SELECT * FROM todo WHERE str_column like 'a%'
+6	0.01216275	SELECT * FROM todo WHERE str_column like '%a'
+1	0.00475550	SELECT * FROM todo use index(num_h_index) WHERE num_column = 1
+2	0.00532675	SELECT * FROM todo use index(num_b_index) WHERE num_column = 1
+3	0.02415250	SELECT * FROM todo use index(num_h_index) WHERE num_column BETWEEN 1 and 5
+4	0.02098025	SELECT * FROM todo use index(num_b_index) WHERE num_column BETWEEN 1 and 5
+5	0.00506200	SELECT * FROM todo WHERE str_column like 'a%'
+6	0.01147275	SELECT * FROM todo WHERE str_column like '%a'
+1	0.00289325	SELECT * FROM todo use index(num_h_index) WHERE num_column = 1
+2	0.00453350	SELECT * FROM todo use index(num_b_index) WHERE num_column = 1
+3	0.01340275	SELECT * FROM todo use index(num_h_index) WHERE num_column BETWEEN 1 and 5
+4	0.02054625	SELECT * FROM todo use index(num_b_index) WHERE num_column BETWEEN 1 and 5
+5	0.00361600	SELECT * FROM todo WHERE str_column like 'a%'
+6	0.01344200	SELECT * FROM todo WHERE str_column like '%a'
+1	0.00365825	SELECT * FROM todo use index(num_h_index) WHERE num_column = 1
+2	0.00714875	SELECT * FROM todo use index(num_b_index) WHERE num_column = 1
+3	0.01283275	SELECT * FROM todo use index(num_h_index) WHERE num_column BETWEEN 1 and 5
+4	0.01950700	SELECT * FROM todo use index(num_b_index) WHERE num_column BETWEEN 1 and 5
+5	0.00377650	SELECT * FROM todo WHERE str_column like 'a%'
+6	0.01056875	SELECT * FROM todo WHERE str_column like '%a'
+1	0.00269525	SELECT * FROM todo use index(num_h_index) WHERE num_column = 1
+2	0.00421150	SELECT * FROM todo use index(num_b_index) WHERE num_column = 1
+3	0.01279900	SELECT * FROM todo use index(num_h_index) WHERE num_column BETWEEN 1 and 5
+4	0.02269150	SELECT * FROM todo use index(num_b_index) WHERE num_column BETWEEN 1 and 5
+5	0.00345975	SELECT * FROM todo WHERE str_column like 'a%'
+6	0.01204425	SELECT * FROM todo WHERE str_column like '%a'
+1	0.00262100	SELECT * FROM todo use index(num_h_index) WHERE num_column = 1
+2	0.00431200	SELECT * FROM todo use index(num_b_index) WHERE num_column = 1
+3	0.01742350	SELECT * FROM todo use index(num_h_index) WHERE num_column BETWEEN 1 and 5
+4	0.02553775	SELECT * FROM todo use index(num_b_index) WHERE num_column BETWEEN 1 and 5
+5	0.00901825	SELECT * FROM todo WHERE str_column like 'a%'
+6	0.01304725	SELECT * FROM todo WHERE str_column like '%a'
+1	0.00355250	SELECT * FROM todo use index(num_h_index) WHERE num_column = 1
+2	0.00424275	SELECT * FROM todo use index(num_b_index) WHERE num_column = 1
+3	0.01708750	SELECT * FROM todo use index(num_h_index) WHERE num_column BETWEEN 1 and 5
+4	0.02395925	SELECT * FROM todo use index(num_b_index) WHERE num_column BETWEEN 1 and 5
+5	0.00430850	SELECT * FROM todo WHERE str_column like 'a%'
+6	0.01085650	SELECT * FROM todo WHERE str_column like '%a'
+1	0.00422775	SELECT * FROM todo use index(num_h_index) WHERE num_column = 1
+2	0.00517475	SELECT * FROM todo use index(num_b_index) WHERE num_column = 1
+3	0.01518300	SELECT * FROM todo use index(num_h_index) WHERE num_column BETWEEN 1 and 5
+4	0.02400875	SELECT * FROM todo use index(num_b_index) WHERE num_column BETWEEN 1 and 5
+5	0.00570875	SELECT * FROM todo WHERE str_column like 'a%'
+6	0.01259450	SELECT * FROM todo WHERE str_column like '%a'
+1	0.00323725	SELECT * FROM todo use index(num_h_index) WHERE num_column = 1
+2	0.00436050	SELECT * FROM todo use index(num_b_index) WHERE num_column = 1
+3	0.02317600	SELECT * FROM todo use index(num_h_index) WHERE num_column BETWEEN 1 and 5
+4	0.02135800	SELECT * FROM todo use index(num_b_index) WHERE num_column BETWEEN 1 and 5
+5	0.00485175	SELECT * FROM todo WHERE str_column like 'a%'
+6	0.01169225	SELECT * FROM todo WHERE str_column like '%a'
